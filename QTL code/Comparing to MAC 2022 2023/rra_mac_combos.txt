@@ -1,0 +1,5 @@
+first	second
+Asn_RRA	Asn_MAC
+Phe_RRA	Phe_MAC
+Rpn4_RRA	Rpn4_MAC
+Thr_RRA	Thr_MAC
