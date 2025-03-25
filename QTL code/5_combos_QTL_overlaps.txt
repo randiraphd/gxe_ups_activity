@@ -1,0 +1,42 @@
+first	second
+4xUb_in_SC	4xUb_in_AZC
+4xUb_in_SC	4xUb_in_4NQO
+4xUb_in_SC	4xUb_in_Low G
+4xUb_in_SC	4xUb_in_LiAc
+4xUb_in_SC	4xUb_in_BTZ
+4xUb_in_SC	4xUb_in_YNB
+Asn_in_SC	Asn_in_AZC
+Asn_in_SC	Asn_in_4NQO
+Asn_in_SC	Asn_in_Low N
+Asn_in_SC	Asn_in_Low G
+Asn_in_SC	Asn_in_LiAc
+Asn_in_SC	Asn_in_BTZ
+Asn_in_SC	Asn_in_YNB
+Phe_in_SC	Phe_in_AZC
+Phe_in_SC	Phe_in_4NQO
+Phe_in_SC	Phe_in_Low N
+Phe_in_SC	Phe_in_Low G
+Phe_in_SC	Phe_in_LiAc
+Phe_in_SC	Phe_in_BTZ
+Phe_in_SC	Phe_in_YNB
+Rpn4_in_SC	Rpn4_in_AZC
+Rpn4_in_SC	Rpn4_in_4NQO
+Rpn4_in_SC	Rpn4_in_Low N
+Rpn4_in_SC	Rpn4_in_Low G
+Rpn4_in_SC	Rpn4_in_LiAc
+Rpn4_in_SC	Rpn4_in_BTZ
+Rpn4_in_SC	Rpn4_in_YNB
+Thr_in_SC	Thr_in_AZC
+Thr_in_SC	Thr_in_4NQO
+Thr_in_SC	Thr_in_Low N
+Thr_in_SC	Thr_in_Low G
+Thr_in_SC	Thr_in_LiAc
+Thr_in_SC	Thr_in_BTZ
+Thr_in_SC	Thr_in_YNB
+UFD_in_SC	UFD_in_AZC
+UFD_in_SC	UFD_in_4NQO
+UFD_in_SC	UFD_in_Low N
+UFD_in_SC	UFD_in_Low G
+UFD_in_SC	UFD_in_LiAc
+UFD_in_SC	UFD_in_BTZ
+UFD_in_SC	UFD_in_YNB
