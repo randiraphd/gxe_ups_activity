@@ -1,0 +1,5 @@
+These scripts are used to analyze sequencing data from "Genotype-by-environment interactions shape ubiquitin-proteasome system activity".
+Whole-genome sequencing data is available through the NIH Sequence Read Archive under Bioproject accession PRJNA1201919.
+
+Scripts are numbered in the order they should be used, along with necessary text files, numbered according to which script they are used in.
+Begin with gxe_ups_activity/QTL code/Albert Lab QTL scripts/ for the initial processing of sequencing data.
