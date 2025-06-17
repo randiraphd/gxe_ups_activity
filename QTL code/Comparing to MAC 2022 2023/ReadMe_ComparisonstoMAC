@@ -1,1 +1,2 @@
-
+This code is used to compare QTL data from "Genotype-by-environment interactions shape ubiquitin-proteasome system activity" to QTL data from Collins et al. 2022 and 2023. 
+Scripts are numbered in order they should be used, along with necessary text files, numbered according to which script they are used in.
