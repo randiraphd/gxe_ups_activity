@@ -1,1 +1,5 @@
 Parental flow cytometry analysis
+
+The files in this directory are used to analyze flow cytometry data, measure GxE between the BY and RM strains, and create figures in the parental (i.e. BY and RM) portion of "Genotype-by-environment interactions shape ubiquitin-proteasome system activity"
+The scripts are numbered in order they should be used.
+"load_flow_packages.R" is referenced and ran in other scripts. 
