@@ -1,5 +1,23 @@
 These scripts are used to analyze sequencing data from "Genotype-by-environment interactions shape ubiquitin-proteasome system activity".
-Whole-genome sequencing data is available through the NIH Sequence Read Archive under Bioproject accession PRJNA1201919.
+Whole-genome sequencing data is available through the NIH Sequence Read Archive under BioProject accession PRJNA1201919.
+
+All fastq files are available under that BioProject, however a few BioSamples/SRA's have a slightly different naming scheme,
+but all necessary sample information is included in the fastq file name.
+Note: "high" and "low" in the SRA information and sequence file names indicates the TFT ratio. Where a "high TFT ratio" sample
+came from a FACS collection of segregants that had a high mCherry/sfGFP ratio, which therefore indicates a relatively low UPS activity.
+
+There are a total of 376 fastq files that were used in the results of this paper (excluding those previously published with Collins et al., 2022 and 2023). 
+There were 47 samples (six reporters times 8 environments minus the low nitrogen-4xUb combination that did not work);
+times 2 replicates; times 2 for the paired end reads; times 2 for high TFT ratio populations and low TFT ratio populations = 376.
 
 Scripts are numbered in the order they should be used, along with necessary text files, numbered according to which script they are used in.
 Begin with gxe_ups_activity/QTL code/Albert Lab QTL scripts/ for the initial processing of sequencing data.
+
+In the first QTL script, "high" refers to "high TFT ratio," which corresponds to a low UPS activity interpretation. 
+In all the initial plots generated up to and including the ones with the suffix of "_all_combined.pdf," "high" refers to "high TFT ratio."
+When the individual QTL traces are generated (the pdf's will have a suffix of "_AFD_LOD_combined.pdf"), positive peak indicates
+that the RM allele at that locus increases UPS activity (more red in the heatmap figure),
+whereas a negative peak indicates the BY allele at that locus increases UPS activity (more blue in the heatmap figure).
+
+I am happy to answer any questions about this code and sequencing data. Contact the corresponding authors on the publication and they can provide my most recent email.
+-Randi
